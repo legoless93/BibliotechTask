@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "epub": "^0.1.6"
-  }
+  },
+  "devDependencies": {}
 }
